@@ -1,5 +1,5 @@
 
-import Header from "./header.component";
+
 import Footer from "./footer.component";
 import Main from "./main.component";
 import Services from "./services.component";

@@ -1,6 +1,6 @@
 
 import React from "react";
-import Header from "../components/header.component";
+
 import contactDetails from "../data/contact.json"
 
 export default function Contact() {
