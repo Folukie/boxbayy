@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "title": "Marketing Technology",
+      "content": "Supercharge your product by giving it access to potential customers across African markets",
+      "icon": "/images/marketing.svg"
+    },
+    {
+      "id": 2,
+      "title": "Solution Distribution",
+      "content": "Build And Distribute Technology Products For The Nigerian And African Markets",
+      "icon": "/images/solution.svg"
+    },
+    {
+      "id": 3,
+      "title": "Mobile Provider Access",
+      "content": "Direct access and connection to all mobile network operators for delivering value-added Services across Nigeria",
+      "icon": "/images/provider.svg"
+    },
+    {
+      "id": 4,
+      "title": "Telecommunication",
+      "content": "We provide diverse telecommunication and aggregation value-added services to mobile network sunscribers in Nigeria.",
+      "icon": "/images/telecom.svg"
+    }
+  ]

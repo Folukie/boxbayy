@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "content": "+234 808 123 4567",
+      "link": "tel:+2348081234567",
+      "icon": "/images/phone.svg"
+    },
+    {
+      "id": 2,
+      "content": "hello@boxpay.com",
+      "link": "mailto:hello@boxpay.com",
+      "icon": "/images/mail.svg"
+    },
+    {
+      "id": 3,
+      "content": "4 Any location Str, Another Line here",
+      "link": "tel:+2348081234567",
+      "icon": "/images/location.svg"
+    }
+  ]
