@@ -6,7 +6,7 @@ import service from "../data/services.json"
 const Services = () => {
 
     return (
-        <div className={"mt-80 px-12 text-center sm:mt-64 sm:px-8"}>
+        <div className={"mt-80 px-12 text-center sm:mt-72 sm:px-8"}>
             <h1 className={"text-lg font-medium pt-8 pb-20 sm:text-min "}>Our Services</h1>
             <div className={"flex justify-between text-black gap-10 sm:grid sm:grid-cols-1 sm:gap-y-20"}>
                 {service.map((service_data) => (
